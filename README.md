@@ -7,7 +7,7 @@ This repository contains a Python program that utilizes the Pandas library to an
 - Python 3.x installed on your system.
 - The Pandas library must be installed. If you don't have it installed, you can do so using the following command:
 
-''' bash
+'''bash
 pip install pandas
 '''
 
@@ -17,7 +17,7 @@ pip install pandas
 2. Make sure you have a file named `Datos ventas.xlsx` in the same directory as the code.
 3. Run the program using the following command in the terminal:
 
-''' bash
+'''bash
 python main.py
 '''
 
