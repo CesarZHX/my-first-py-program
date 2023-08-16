@@ -1,0 +1,9 @@
+1)Carga de Datos:
+-Utiliza la función pd.read_csv() para cargar el conjunto de datos en un DataFrame.
+
+2)Exploración Inicial:
+-Muestra las primeras 5 filas del DataFrame.
+
+3)Estadísticas Básicas:
+-Encuentra el producto más vendido y el menos vendido en términos de cantidad.
+-Encuentra el producto más costoso y el más económico de acuerdo a su precio unitario.
