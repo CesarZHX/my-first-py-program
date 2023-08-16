@@ -9,7 +9,6 @@ This repository contains a Python program that utilizes the Pandas library to an
 
 '''bash
 pip install pandas
-'''
 
 ## How to Use
 
@@ -19,7 +18,6 @@ pip install pandas
 
 '''bash
 python main.py
-'''
 
 > Note: If you're using Windows, replace `python` with `python3`.
 
